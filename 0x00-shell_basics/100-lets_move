@@ -1,2 +1,2 @@
 #!/bin/bash
-cp [[:u:]]* /tmp/u
+cp [[:U:]]* /tmp/u
